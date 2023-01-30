@@ -139,3 +139,14 @@
     	margin-top: 2em; 
     } 
 }
+
+.table tbody tr.highlight td {
+	background-color: #17a2b8;
+	color: white;
+  }
+
+  .table tbody tr {
+	cursor: pointer;
+  }
+
+  .modal { overflow: auto !important; }
